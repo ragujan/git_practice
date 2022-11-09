@@ -9,6 +9,10 @@
 <body>
    <?php
    echo "echo becho";
+   echo "ragjn is the gratest ever in the world";
+
+   $confidential_information = "$$$$$";
+   
    ?> 
 </body>
 </html>
