@@ -9,7 +9,7 @@
 <body>
    <?php
    echo "echo becho";
-   $ragjn =  "d";
+   $ragjn =  "";
 
    $confidential_information = $ragjn;
 
